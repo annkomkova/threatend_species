@@ -1,0 +1,90 @@
+:root {
+  --bg-color: #DCD3C5;
+  --terra: #BA5430;
+  --brown: #57040A;
+  --caramel: #AD7C5E;
+  --sand: #D4B898;
+  --mintgray: #AEB5A8;
+  --sky: #92CDCD;
+}
+.country {
+  position: relative;
+  width: 299px;
+  height: 299px;
+  margin: 0 auto;
+}
+.country > div {
+  display: block;
+  position: absolute;
+  margin: auto;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  transform-origin: center center;
+  z-index: 2;
+}
+.ma {
+  width: 78px;
+  height: 78px;
+  border: 10px solid var(--terra);
+  border-radius: 62% 69% 60% 69% / 53% 85% 52% 42%;
+}
+.b {
+  width: 94px;
+  height: 94px;
+  border: 10px double var(--brown);
+  border-radius: 62% 69% 60% 70% / 55% 50% 49% 47%;
+}
+.r {
+  width: 55px;
+  height: 55px;
+  border: 10px dotted var(--caramel);
+  border-radius: 77% 56% 81% 50% / 55% 50% 49% 47%;
+}
+.a {
+  width: 148px;
+  height: 148px;
+  border: 10px solid var(--sky);
+  border-radius: 41% 63% 52% 50% / 55% 50% 49% 47%;
+}
+.f {
+  width: 208px;
+  height: 208px;
+  border: 10px inset var(--sand);
+  border-radius: 81% 29% 52% 50% / 55% 50% 49% 47%;
+}
+.mo {
+  width: 15px;
+  height: 15px;
+  border: 10px solid var(--mintgray);
+  border-radius: 41% 63% 52% 50% / 55% 50% 49% 47%;
+}
+.total {
+  z-index: 1;
+  /* background-color: #F1EDE5; */
+  width: 299px;
+  height: 299px;
+  border-radius: 41% 63% 52% 50% / 55% 50% 49% 47%;
+  background-image: url('noise2.svg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 17%;
+
+}
+/* .total::after {
+  content: ' ';
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 2;
+  width: 299px;
+  height: 299px;
+  background-image: url('noise2.svg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 10%;
+  border-radius: 41% 63% 52% 50% / 55% 50% 49% 47%;
+} */
