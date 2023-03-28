@@ -1,251 +1,250 @@
-﻿Name;Mammals;Birds;Reptiles;Amphibians;Fishes;Molluscs;Total
-Indonesia;213;161;77;30;369;42;892
-United States;43;87;38;59;284;320;831
-Mexico;97;68;105;232;308;14;824
-Brazil;97;153;94;41;367;22;774
-Colombia;63;97;39;292;183;4;678
-India;99;91;106;83;292;7;678
-Australia;69;66;76;46;216;182;655
-Ecuador;49;83;93;247;100;49;621
-Madagascar;133;37;139;145;112;35;601
-China;78;94;55;148;208;15;598
-Malaysia;81;68;60;39;182;45;475
-Viet Nam;64;51;75;75;142;30;437
-Tanzania  United Republic of;45;47;41;61;218;11;423
-Peru;51;92;33;139;90;4;409
-Japan;29;50;26;45;166;61;377
-Sri Lanka;30;14;113;71;137;0;365
-Thailand;65;67;42;12;154;16;356
-Philippines;43;91;37;27;145;3;346
-Venezuela  Bolivarian Republic of;37;40;32;128;105;1;343
-Spain;18;23;19;7;98;167;332
-Cameroon;49;30;24;60;148;14;325
-Greece;12;19;10;5;97;179;322
-South Africa;33;54;25;16;153;23;304
-Congo  The Democratic Republic of the;48;40;18;13;128;45;292
-Papua New Guinea;51;37;13;28;134;24;287
-Guatemala;16;19;39;96;97;2;269
-Turkey;18;21;20;10;148;47;264
-Argentina;39;54;29;33;106;0;261
-Panama;18;19;16;77;128;0;258
-Myanmar;54;58;38;5;99;3;257
-Costa Rica;12;25;16;55;145;2;255
-Honduras;10;18;60;69;89;0;246
-New Zealand;9;66;52;3;48;39;217
-Kenya;32;45;16;15;88;20;216
-Portugal;15;17;5;2;88;87;214
-France;13;19;5;4;76;95;212
-Taiwan  Province of China;12;24;14;10;144;2;206
-Cambodia;45;32;23;8;94;1;203
-Italy;9;18;4;11;72;86;200
-Lao People's Democratic Republic;49;30;35;10;56;16;196
-Guinea;34;22;10;7;117;6;196
-Nigeria;36;22;15;13;102;5;193
-Pakistan;24;32;17;1;119;0;193
-Haiti;3;17;66;45;61;0;192
-Cuba;10;17;44;49;66;0;186
-Bangladesh;39;36;30;0;77;0;182
-Morocco;19;21;13;3;85;39;180
-Mozambique;19;32;15;7;105;0;178
-New Caledonia;8;18;72;0;51;28;177
-C√іte d'Ivoire;34;26;9;7;89;8;173
-Russian Federation;33;57;8;0;65;7;170
-Dominican Republic;6;17;59;35;47;0;164
-Croatia;10;16;4;2;80;50;162
-Ghana;23;25;9;9;87;9;162
-Chile;18;34;28;34;43;1;158
-Senegal;21;23;9;0;89;15;157
-Angola;24;33;10;0;82;7;156
-Fiji;7;14;16;0;33;84;154
-Bolivia  Plurinational States of;24;47;14;53;13;2;153
-Iran  Islamic Republic of;18;28;15;4;85;2;152
-Brunei Darussalam;38;40;10;2;61;0;151
-Liberia;27;14;9;2;93;5;150
-Nicaragua;9;19;11;11;97;2;149
-Uganda;32;33;8;2;56;17;148
-Sierra Leone;26;17;10;1;87;7;148
-Israel;16;18;11;1;84;12;142
-Egypt;19;16;12;0;89;2;138
-Gabon;18;5;8;5;97;2;135
-Albania;4;8;5;2;59;51;129
-Mauritania;18;24;6;0;78;3;129
-Korea  Republic of;12;34;3;5;69;3;126
-Equatorial Guinea;24;3;8;6;82;2;125
-Congo;18;6;8;1;83;7;123
-Canada;18;22;6;1;53;21;121
-Algeria;15;19;8;2;65;12;121
-Singapore;18;24;8;0;69;1;120
-Gambia;10;19;6;0;80;3;118
-Guyana;11;11;6;21;68;0;117
-Syrian Arab Republic;15;17;9;0;64;11;116
-Benin;16;14;8;1;73;3;115
-Seychelles;7;13;12;6;40;37;115
-Jamaica;7;10;29;20;48;0;114
-Togo;16;15;9;2;67;4;113
-Guinea-Bissau;15;15;9;0;71;3;113
-Uruguay;9;22;7;4;69;0;111
-Ethiopia;40;35;4;12;16;4;111
-Oman;9;13;8;0;76;3;109
-Slovenia;8;11;2;2;52;33;108
-French Polynesia;0;35;3;0;37;33;108
-Saudi Arabia;11;19;3;0;73;1;107
-North Macedonia;7;13;2;1;13;70;106
-Yemen;12;17;7;0;68;2;106
-Sudan;19;27;6;0;53;0;105
-Somalia;18;20;5;0;59;2;104
-Namibia;15;33;5;0;47;2;102
-Nepal;30;38;17;4;11;1;101
-Tunisia;15;13;6;0;58;9;101
-Montenegro;7;13;4;2;51;23;100
-Solomon Islands;24;20;7;3;43;2;99
-Eritrea;16;22;7;0;51;1;97
-Mauritius;7;12;15;0;29;33;96
-Belize;10;8;8;2;67;0;95
-Korea  Democratic People's Republic of;10;30;2;1;51;0;94
-Puerto Rico;2;13;16;14;49;0;94
-Bosnia and Herzegovina;5;9;3;2;51;19;89
-Bahamas;5;9;13;0;60;1;88
-French Guiana;8;5;7;5;61;0;86
-El Salvador;6;9;10;8;52;0;85
-Germany;7;12;0;0;35;30;84
-United Kingdom;4;11;1;0;61;7;84
-Bulgaria;10;18;2;1;21;32;84
-Palau;5;6;4;0;29;40;84
-Suriname;9;5;6;1;63;0;84
-Lebanon;10;11;8;0;43;11;83
-Malawi;10;20;4;5;37;7;83
-Western Sahara;11;6;1;0;63;2;83
-Romania;14;18;2;0;21;25;80
-Trinidad and Tobago;3;5;7;4;61;0;80
-Iraq;13;17;3;1;44;1;79
-United Arab Emirates;8;13;5;0;53;0;79
-Libya;11;10;6;0;51;1;79
-Zambia;13;22;4;0;26;12;77
-Cabo Verde;4;6;6;0;47;14;77
-Austria;5;13;1;0;13;43;75
-Hong Kong;6;21;7;6;33;1;74
-Guadeloupe;4;4;14;3;47;1;73
-Kazakhstan;17;27;1;1;24;2;72
-Djibouti;11;15;1;0;41;1;69
-Jordan;13;15;6;0;28;6;68
-Virgin Islands  U.S.;1;3;14;3;47;0;68
-Cyprus;7;8;5;1;39;7;67
-Sao Tome and Principe;4;12;6;3;38;4;67
-Virgin Islands  British;1;2;15;2;47;0;67
-Ukraine;13;18;1;0;25;9;66
-Tonga;2;5;4;0;29;25;65
-Martinique;1;5;9;2;45;2;64
-Saint Lucia;2;7;9;0;46;0;64
-Bhutan;28;19;10;1;5;0;63
-Dominica;3;6;3;2;49;0;63
-Micronesia  Federated States of;6;13;8;0;32;3;62
-R√©union;4;7;2;0;32;17;62
-Bonaire  Sint Eustatius and Saba;3;1;7;0;51;0;62
-Saint Vincent and the Grenadines;2;4;8;1;47;0;62
-Ireland;4;9;1;0;43;4;61
-Grenada;3;2;7;1;48;0;61
-Antigua and Barbuda;2;3;8;0;48;0;61
-Barbados;3;3;7;0;47;0;60
-Kuwait;7;11;4;0;37;0;59
-Malta;3;6;1;0;43;5;58
-Cayman Islands;1;1;11;0;43;2;58
-Turks and Caicos Islands;2;3;8;0;45;0;58
-Saint Kitts and Nevis;2;3;6;1;46;0;58
-Qatar;4;10;3;0;41;0;58
-Paraguay;11;27;12;1;6;0;57
-Rwanda;24;20;4;2;7;0;57
-Anguilla;1;0;8;0;48;0;57
-Burundi;16;18;1;1;17;3;56
-Aruba;2;1;2;0;50;1;56
-Norway;8;11;0;0;33;3;55
-Montserrat;2;3;4;1;45;0;55
-Cura√Іao;3;1;5;0;46;0;55
-Vanuatu;8;8;5;0;30;3;54
-Saint Martin (French part);2;1;7;0;44;0;54
-Sint Maarten (Dutch part);2;1;7;0;44;0;54
-Gibraltar;4;10;0;1;34;5;54
-Comoros;6;13;9;0;24;0;52
-Guam;3;12;5;0;25;6;51
-Timor-Leste;6;7;3;0;35;0;51
-Central African Republic;20;18;7;0;3;2;50
-Bahrain;3;8;4;0;35;0;50
-Azerbaijan;7;17;8;1;14;2;49
-Northern Mariana Islands;3;13;4;0;24;4;48
-Bermuda;4;3;4;0;35;2;48
-Turkmenistan;9;18;6;0;14;1;48
-Georgia;8;15;6;1;13;4;47
-Saint Helena  Ascension and Tristan da Cunha;3;21;2;0;20;1;47
-Zimbabwe;10;22;4;6;5;0;47
-Uzbekistan;10;18;9;0;9;1;47
-Chad;16;19;5;0;1;6;47
-Serbia;8;14;1;1;14;8;46
-Maldives;2;0;3;0;41;0;46
-South Sudan;18;23;5;0;0;0;46
-Denmark;2;10;0;0;27;5;44
-Mali;14;19;4;0;1;5;43
-Monaco;4;0;0;0;37;2;43
-Sweden;1;12;0;0;25;4;42
-Netherlands;4;10;0;0;23;5;42
-American Samoa;1;6;6;0;24;5;42
-Afghanistan;12;15;3;1;11;0;42
-Palestine  State of;5;15;4;0;16;2;42
-Samoa;2;5;4;0;26;4;41
-Saint Barth√©lemy;1;0;4;0;36;0;41
-Hungary;6;14;1;0;11;8;40
-Norfolk Island;1;11;2;0;14;12;40
-Niger;14;16;4;0;3;2;39
-Belgium;3;8;0;0;21;6;38
-Marshall Islands;1;5;4;0;27;1;38
-Mongolia;11;24;0;0;1;0;36
-Cook Islands;1;11;3;0;20;1;36
-Switzerland;5;10;0;1;9;10;35
-Tajikistan;7;14;7;0;7;0;35
-Mayotte;2;3;7;1;22;0;35
-Kiribati;2;6;2;0;24;1;35
-Kyrgyzstan;5;15;3;0;12;0;35
-Iceland;6;7;0;0;21;0;34
-Armenia;7;14;7;0;4;2;34
-Burkina Faso;12;15;4;0;3;0;34
-French Southern Territories;3;14;7;0;10;0;34
-Poland;4;13;0;0;9;7;33
-Slovakia;5;13;0;0;7;7;32
-Christmas Island;2;5;3;0;22;0;32
-Botswana;11;18;1;0;2;0;32
-Faroe Islands;4;5;0;0;21;0;30
-Wallis and Futuna;0;7;2;0;21;0;30
-Niue;1;7;4;0;18;0;30
-Eswatini;9;15;1;0;5;0;30
-Moldova;6;12;2;0;8;2;30
-United States Minor Outlying Islands;0;10;1;0;18;0;29
-Greenland;9;6;0;0;13;0;28
-Tuvalu;2;0;4;0;21;1;28
-British Indian Ocean Territory;0;1;2;0;25;0;28
-Cocos (Keeling) Islands;2;1;1;0;24;0;28
-Pitcairn;0;9;0;0;12;5;26
-Macao;0;4;1;0;21;0;26
-Saint Pierre and Miquelon;4;9;0;0;13;0;26
-Nauru;2;3;0;0;20;0;25
-Tokelau;0;0;3;0;22;0;25
-Latvia;1;13;0;0;6;4;24
-Czechia;4;10;0;0;2;6;22
-Finland;2;12;0;0;5;3;22
-Lithuania;1;11;0;0;6;3;21
-Belarus;4;11;0;0;3;3;21
-Estonia;1;11;0;0;4;4;20
-Disputed Territory;0;0;0;0;20;0;20
-Falkland Islands (Malvinas);4;8;0;0;7;0;19
-Jersey;0;0;0;0;15;2;17
-Guernsey;0;0;0;0;15;1;16
-Lesotho;4;9;0;0;1;0;14
-Svalbard and Jan Mayen;4;4;0;0;5;0;13
-Heard Island and McDonald Islands;1;10;0;0;2;0;13
-Luxembourg;0;3;0;0;1;5;9
-Andorra;2;3;1;0;0;3;9
-Isle of Man;0;0;0;0;9;0;9
-South Georgia and the South Sandwich Islands;3;6;0;0;0;0;9
-Antarctica;2;5;0;0;1;0;8
-Liechtenstein;0;3;0;0;0;2;5
-San Marino;1;1;0;0;2;1;5
-Bouvet Island;1;1;0;0;0;0;2
-Holy See (Vatican City State);2;0;0;0;0;0;2
-Еland Islands;0;0;0;0;0;0;0
+Name,Mammals,Birds,Reptiles,Amphibians,Fishes,Molluscs,Total
+Indonesia,213,161,77,30,369,42,892
+United States,43,87,38,59,284,320,831
+Mexico,97,68,105,232,308,14,824
+Brazil,97,153,94,41,367,22,774
+Colombia,63,97,39,292,183,4,678
+India,99,91,106,83,292,7,678
+Australia,69,66,76,46,216,182,655
+Ecuador,49,83,93,247,100,49,621
+Madagascar,133,37,139,145,112,35,601
+China,78,94,55,148,208,15,598
+Malaysia,81,68,60,39,182,45,475
+Viet Nam,64,51,75,75,142,30,437
+Tanzania  United Republic of,45,47,41,61,218,11,423
+Peru,51,92,33,139,90,4,409
+Japan,29,50,26,45,166,61,377
+Sri Lanka,30,14,113,71,137,0,365
+Thailand,65,67,42,12,154,16,356
+Philippines,43,91,37,27,145,3,346
+Venezuela  Bolivarian Republic of,37,40,32,128,105,1,343
+Spain,18,23,19,7,98,167,332
+Cameroon,49,30,24,60,148,14,325
+Greece,12,19,10,5,97,179,322
+South Africa,33,54,25,16,153,23,304
+Congo  The Democratic Republic of the,48,40,18,13,128,45,292
+Papua New Guinea,51,37,13,28,134,24,287
+Guatemala,16,19,39,96,97,2,269
+Turkey,18,21,20,10,148,47,264
+Argentina,39,54,29,33,106,0,261
+Panama,18,19,16,77,128,0,258
+Myanmar,54,58,38,5,99,3,257
+Costa Rica,12,25,16,55,145,2,255
+Honduras,10,18,60,69,89,0,246
+New Zealand,9,66,52,3,48,39,217
+Kenya,32,45,16,15,88,20,216
+Portugal,15,17,5,2,88,87,214
+France,13,19,5,4,76,95,212
+Taiwan  Province of China,12,24,14,10,144,2,206
+Cambodia,45,32,23,8,94,1,203
+Italy,9,18,4,11,72,86,200
+Lao People's Democratic Republic,49,30,35,10,56,16,196
+Guinea,34,22,10,7,117,6,196
+Nigeria,36,22,15,13,102,5,193
+Pakistan,24,32,17,1,119,0,193
+Haiti,3,17,66,45,61,0,192
+Cuba,10,17,44,49,66,0,186
+Bangladesh,39,36,30,0,77,0,182
+Morocco,19,21,13,3,85,39,180
+Mozambique,19,32,15,7,105,0,178
+New Caledonia,8,18,72,0,51,28,177
+C√іte d'Ivoire,34,26,9,7,89,8,173
+Russian Federation,33,57,8,0,65,7,170
+Dominican Republic,6,17,59,35,47,0,164
+Croatia,10,16,4,2,80,50,162
+Ghana,23,25,9,9,87,9,162
+Chile,18,34,28,34,43,1,158
+Senegal,21,23,9,0,89,15,157
+Angola,24,33,10,0,82,7,156
+Fiji,7,14,16,0,33,84,154
+Bolivia  Plurinational States of,24,47,14,53,13,2,153
+Iran  Islamic Republic of,18,28,15,4,85,2,152
+Brunei Darussalam,38,40,10,2,61,0,151
+Liberia,27,14,9,2,93,5,150
+Nicaragua,9,19,11,11,97,2,149
+Uganda,32,33,8,2,56,17,148
+Sierra Leone,26,17,10,1,87,7,148
+Israel,16,18,11,1,84,12,142
+Egypt,19,16,12,0,89,2,138
+Gabon,18,5,8,5,97,2,135
+Albania,4,8,5,2,59,51,129
+Mauritania,18,24,6,0,78,3,129
+Korea  Republic of,12,34,3,5,69,3,126
+Equatorial Guinea,24,3,8,6,82,2,125
+Congo,18,6,8,1,83,7,123
+Canada,18,22,6,1,53,21,121
+Algeria,15,19,8,2,65,12,121
+Singapore,18,24,8,0,69,1,120
+Gambia,10,19,6,0,80,3,118
+Guyana,11,11,6,21,68,0,117
+Syrian Arab Republic,15,17,9,0,64,11,116
+Benin,16,14,8,1,73,3,115
+Seychelles,7,13,12,6,40,37,115
+Jamaica,7,10,29,20,48,0,114
+Togo,16,15,9,2,67,4,113
+Guinea-Bissau,15,15,9,0,71,3,113
+Uruguay,9,22,7,4,69,0,111
+Ethiopia,40,35,4,12,16,4,111
+Oman,9,13,8,0,76,3,109
+Slovenia,8,11,2,2,52,33,108
+French Polynesia,0,35,3,0,37,33,108
+Saudi Arabia,11,19,3,0,73,1,107
+North Macedonia,7,13,2,1,13,70,106
+Yemen,12,17,7,0,68,2,106
+Sudan,19,27,6,0,53,0,105
+Somalia,18,20,5,0,59,2,104
+Namibia,15,33,5,0,47,2,102
+Nepal,30,38,17,4,11,1,101
+Tunisia,15,13,6,0,58,9,101
+Montenegro,7,13,4,2,51,23,100
+Solomon Islands,24,20,7,3,43,2,99
+Eritrea,16,22,7,0,51,1,97
+Mauritius,7,12,15,0,29,33,96
+Belize,10,8,8,2,67,0,95
+Korea  Democratic People's Republic of,10,30,2,1,51,0,94
+Puerto Rico,2,13,16,14,49,0,94
+Bosnia and Herzegovina,5,9,3,2,51,19,89
+Bahamas,5,9,13,0,60,1,88
+French Guiana,8,5,7,5,61,0,86
+El Salvador,6,9,10,8,52,0,85
+Germany,7,12,0,0,35,30,84
+United Kingdom,4,11,1,0,61,7,84
+Bulgaria,10,18,2,1,21,32,84
+Palau,5,6,4,0,29,40,84
+Suriname,9,5,6,1,63,0,84
+Lebanon,10,11,8,0,43,11,83
+Malawi,10,20,4,5,37,7,83
+Western Sahara,11,6,1,0,63,2,83
+Romania,14,18,2,0,21,25,80
+Trinidad and Tobago,3,5,7,4,61,0,80
+Iraq,13,17,3,1,44,1,79
+United Arab Emirates,8,13,5,0,53,0,79
+Libya,11,10,6,0,51,1,79
+Zambia,13,22,4,0,26,12,77
+Cabo Verde,4,6,6,0,47,14,77
+Austria,5,13,1,0,13,43,75
+Hong Kong,6,21,7,6,33,1,74
+Guadeloupe,4,4,14,3,47,1,73
+Kazakhstan,17,27,1,1,24,2,72
+Djibouti,11,15,1,0,41,1,69
+Jordan,13,15,6,0,28,6,68
+Virgin Islands  U.S.,1,3,14,3,47,0,68
+Cyprus,7,8,5,1,39,7,67
+Sao Tome and Principe,4,12,6,3,38,4,67
+Virgin Islands  British,1,2,15,2,47,0,67
+Ukraine,13,18,1,0,25,9,66
+Tonga,2,5,4,0,29,25,65
+Martinique,1,5,9,2,45,2,64
+Saint Lucia,2,7,9,0,46,0,64
+Bhutan,28,19,10,1,5,0,63
+Dominica,3,6,3,2,49,0,63
+Micronesia  Federated States of,6,13,8,0,32,3,62
+R√©union,4,7,2,0,32,17,62
+Bonaire  Sint Eustatius and Saba,3,1,7,0,51,0,62
+Saint Vincent and the Grenadines,2,4,8,1,47,0,62
+Ireland,4,9,1,0,43,4,61
+Grenada,3,2,7,1,48,0,61
+Antigua and Barbuda,2,3,8,0,48,0,61
+Barbados,3,3,7,0,47,0,60
+Kuwait,7,11,4,0,37,0,59
+Malta,3,6,1,0,43,5,58
+Cayman Islands,1,1,11,0,43,2,58
+Turks and Caicos Islands,2,3,8,0,45,0,58
+Saint Kitts and Nevis,2,3,6,1,46,0,58
+Qatar,4,10,3,0,41,0,58
+Paraguay,11,27,12,1,6,0,57
+Rwanda,24,20,4,2,7,0,57
+Anguilla,1,0,8,0,48,0,57
+Burundi,16,18,1,1,17,3,56
+Aruba,2,1,2,0,50,1,56
+Norway,8,11,0,0,33,3,55
+Montserrat,2,3,4,1,45,0,55
+Cura√Іao,3,1,5,0,46,0,55
+Vanuatu,8,8,5,0,30,3,54
+Saint Martin (French part),2,1,7,0,44,0,54
+Sint Maarten (Dutch part),2,1,7,0,44,0,54
+Gibraltar,4,10,0,1,34,5,54
+Comoros,6,13,9,0,24,0,52
+Guam,3,12,5,0,25,6,51
+Timor-Leste,6,7,3,0,35,0,51
+Central African Republic,20,18,7,0,3,2,50
+Bahrain,3,8,4,0,35,0,50
+Azerbaijan,7,17,8,1,14,2,49
+Northern Mariana Islands,3,13,4,0,24,4,48
+Bermuda,4,3,4,0,35,2,48
+Turkmenistan,9,18,6,0,14,1,48
+Georgia,8,15,6,1,13,4,47
+Saint Helena  Ascension and Tristan da Cunha,3,21,2,0,20,1,47
+Zimbabwe,10,22,4,6,5,0,47
+Uzbekistan,10,18,9,0,9,1,47
+Chad,16,19,5,0,1,6,47
+Serbia,8,14,1,1,14,8,46
+Maldives,2,0,3,0,41,0,46
+South Sudan,18,23,5,0,0,0,46
+Denmark,2,10,0,0,27,5,44
+Mali,14,19,4,0,1,5,43
+Monaco,4,0,0,0,37,2,43
+Sweden,1,12,0,0,25,4,42
+Netherlands,4,10,0,0,23,5,42
+American Samoa,1,6,6,0,24,5,42
+Afghanistan,12,15,3,1,11,0,42
+Palestine  State of,5,15,4,0,16,2,42
+Samoa,2,5,4,0,26,4,41
+Saint Barth√©lemy,1,0,4,0,36,0,41
+Hungary,6,14,1,0,11,8,40
+Norfolk Island,1,11,2,0,14,12,40
+Niger,14,16,4,0,3,2,39
+Belgium,3,8,0,0,21,6,38
+Marshall Islands,1,5,4,0,27,1,38
+Mongolia,11,24,0,0,1,0,36
+Cook Islands,1,11,3,0,20,1,36
+Switzerland,5,10,0,1,9,10,35
+Tajikistan,7,14,7,0,7,0,35
+Mayotte,2,3,7,1,22,0,35
+Kiribati,2,6,2,0,24,1,35
+Kyrgyzstan,5,15,3,0,12,0,35
+Iceland,6,7,0,0,21,0,34
+Armenia,7,14,7,0,4,2,34
+Burkina Faso,12,15,4,0,3,0,34
+French Southern Territories,3,14,7,0,10,0,34
+Poland,4,13,0,0,9,7,33
+Slovakia,5,13,0,0,7,7,32
+Christmas Island,2,5,3,0,22,0,32
+Botswana,11,18,1,0,2,0,32
+Faroe Islands,4,5,0,0,21,0,30
+Wallis and Futuna,0,7,2,0,21,0,30
+Niue,1,7,4,0,18,0,30
+Eswatini,9,15,1,0,5,0,30
+Moldova,6,12,2,0,8,2,30
+United States Minor Outlying Islands,0,10,1,0,18,0,29
+Greenland,9,6,0,0,13,0,28
+Tuvalu,2,0,4,0,21,1,28
+British Indian Ocean Territory,0,1,2,0,25,0,28
+Cocos (Keeling) Islands,2,1,1,0,24,0,28
+Pitcairn,0,9,0,0,12,5,26
+Macao,0,4,1,0,21,0,26
+Saint Pierre and Miquelon,4,9,0,0,13,0,26
+Nauru,2,3,0,0,20,0,25
+Tokelau,0,0,3,0,22,0,25
+Latvia,1,13,0,0,6,4,24
+Czechia,4,10,0,0,2,6,22
+Finland,2,12,0,0,5,3,22
+Lithuania,1,11,0,0,6,3,21
+Belarus,4,11,0,0,3,3,21
+Estonia,1,11,0,0,4,4,20
+Disputed Territory,0,0,0,0,20,0,20
+Falkland Islands (Malvinas),4,8,0,0,7,0,19
+Jersey,0,0,0,0,15,2,17
+Guernsey,0,0,0,0,15,1,16
+Lesotho,4,9,0,0,1,0,14
+Svalbard and Jan Mayen,4,4,0,0,5,0,13
+Heard Island and McDonald Islands,1,10,0,0,2,0,13
+Luxembourg,0,3,0,0,1,5,9
+Andorra,2,3,1,0,0,3,9
+Isle of Man,0,0,0,0,9,0,9
+South Georgia and the South Sandwich Islands,3,6,0,0,0,0,9
+Antarctica,2,5,0,0,1,0,8
+Liechtenstein,0,3,0,0,0,2,5
+San Marino,1,1,0,0,2,1,5
+Bouvet Island,1,1,0,0,0,0,2
+Holy See (Vatican City State),2,0,0,0,0,0,2
