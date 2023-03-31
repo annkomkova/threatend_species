@@ -1,17 +1,34 @@
 :root {
-  --bg-color: #DCD3C5;
-  --terra: #BA5430;
-  --brown: #57040A;
-  --caramel: #AD7C5E;
-  --sand: #D4B898;
-  --mintgray: #AEB5A8;
-  --sky: #92CDCD;
+  --gold: rgba(253,199,124, 0.2);
+  --purple: rgba(146,163,225, 0.2);
+  --green: rgba(72,229,168, 0.2);
+  --red: rgba(253,95,9, 0.2);
+  --blue: rgba(31,228,255, 0.2);
+  --white: rgba(255, 255, 255, 0.2);
+}
+body {
+  background: #1a1a1a;
+}
+.main {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+.card {
+  width: 25vw;
+  height: 25vw;
+  position: relative;
+  display: flex;
 }
 .country {
-  position: relative;
-  width: 299px;
-  height: 299px;
-  margin: 0 auto;
+  display: block;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  background-size: cover;
+  background-repeat: no-repeat;
+  -webkit-animation: rot 80s linear infinite;
+          animation: rot 80s linear infinite;
+          gap: 1.2vw;
 }
 .country > div {
   display: block;
@@ -23,68 +40,217 @@
   right: 0;
   transform-origin: center center;
   z-index: 2;
+  /* opacity: 0%; */
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.blob1 {
+  background-image: url('../img/blob1.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+}
+.total {
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  margin: auto;
+  transform-origin: center;
+  /* background: #2b2b2b; */
+  background-image: url('../img/blob.svg');
+
+  -webkit-animation: rot- 40s linear infinite;
+          animation: rot- 40s linear infinite;
+  z-index: 0;
+}
+.h1 {
+  color: white;
+  position: absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%, -50%);
+  text-align: center;
+}
+.bg0 {
+  background-image: url(../img/0.png);
+}
+.bg1 {
+  background-image: url(../img/1.png);
+}
+.bg2 {
+  background-image: url(../img/2.png);
+}
+.bg3 {
+  background-image: url(../img/3.png);
+}
+.bg4 {
+  background-image: url(../img/4.png);
+}
+.bg5 {
+  background-image: url(../img/5.png);
+}
+.bg6 {
+  background-image: url(../img/6.png);
+}
+.bg7 {
+  background-image: url(../img/7.png);
+}
+.bg8 {
+  background-image: url(../img/8.png);
+}
+.bg9 {
+  background-image: url(../img/9.png);
+}
+.bg10 {
+  background-image: url(../img/10.png);
+}
+.bg11 {
+  background-image: url(../img/11.png);
+}
+.bg12 {
+  background-image: url(../img/12.png);
+}
+.bg13 {
+  background-image: url(../img/13.png);
+}
+.bg14 {
+  background-image: url(../img/14.png);
+}
+.bg15 {
+  background-image: url(../img/15.png);
+}
+.bg16 {
+  background-image: url(../img/16.png);
+}
+.bg17 {
+  background-image: url(../img/17.png);
+}
+.bg18 {
+  background-image: url(../img/18.png);
+}
+.bg19 {
+  background-image: url(../img/19.png);
+}
+.bg20 {
+  background-image: url(../img/20.png);
+}
+.bg21 {
+  background-image: url(../img/21.png);
+}
+.bg22 {
+  background-image: url(../img/22.png);
+}
+.bg23 {
+  background-image: url(../img/23.png);
+}
+.bg24 {
+  background-image: url(../img/24.png);
+}
+.bg25 {
+  background-image: url(../img/25.png);
+}
+.bg26 {
+  background-image: url(../img/26.png);
+}
+.bg27 {
+  background-image: url(../img/27.png);
+}
+.bg28 {
+  background-image: url(../img/28.png);
+}
+.bg29 {
+  background-image: url(../img/29.png);
+}
+.bg30 {
+  background-image: url(../img/30.png);
+}
+.bg31 {
+  background-image: url(../img/11.png);
+}
+.bg32 {
+  background-image: url(../img/12.png);
+}
+.bg33 {
+  background-image: url(../img/13.png);
+}
+.bg34 {
+  background-image: url(../img/14.png);
+}
+.bg35 {
+  background-image: url(../img/15.png);
+}
+.bg36 {
+  background-image: url(../img/16.png);
+}
+.bg37 {
+  background-image: url(../img/17.png);
+}
+.bg38 {
+  background-image: url(../img/18.png);
+}
+.bg39 {
+  background-image: url(../img/19.png);
+}
+.bg40 {
+  background-image: url(../img/20.png);
+}
+.bg41 {
+  background-image: url(../img/21.png);
+}
+.bg42 {
+  background-image: url(../img/22.png);
+}
+.bg43 {
+  background-image: url(../img/23.png);
+}
+.bg44 {
+  background-image: url(../img/24.png);
+}
+.bg45 {
+  background-image: url(../img/25.png);
 }
 .ma {
-  width: 78px;
-  height: 78px;
-  border: 10px solid var(--terra);
+  border: 2px solid var(--gold);
   border-radius: 62% 69% 60% 69% / 53% 85% 52% 42%;
 }
 .b {
-  width: 94px;
-  height: 94px;
-  border: 10px double var(--brown);
+  border: 2px solid var(--purple);
   border-radius: 62% 69% 60% 70% / 55% 50% 49% 47%;
 }
 .r {
-  width: 55px;
-  height: 55px;
-  border: 10px dotted var(--caramel);
+  border: 2px solid var(--white);
   border-radius: 77% 56% 81% 50% / 55% 50% 49% 47%;
 }
 .a {
-  width: 148px;
-  height: 148px;
-  border: 10px solid var(--sky);
+  border: 2px solid var(--blue);
   border-radius: 41% 63% 52% 50% / 55% 50% 49% 47%;
 }
 .f {
-  width: 208px;
-  height: 208px;
-  border: 10px inset var(--sand);
+  border: 2px solid var(--green);
   border-radius: 81% 29% 52% 50% / 55% 50% 49% 47%;
 }
 .mo {
-  width: 15px;
-  height: 15px;
-  border: 10px solid var(--mintgray);
+  border: 2px solid var(--red);
   border-radius: 41% 63% 52% 50% / 55% 50% 49% 47%;
 }
-.total {
-  z-index: 1;
-  /* background-color: #F1EDE5; */
-  width: 299px;
-  height: 299px;
-  border-radius: 41% 63% 52% 50% / 55% 50% 49% 47%;
-  background-image: url('noise2.svg');
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  opacity: 17%;
-
+@-webkit-keyframes rot {
+  0% {transform: rotate(0deg);}
+  50% {transform: rotate(180deg);}
+  100% {transform: rotate(360deg);}
 }
-/* .total::after {
-  content: ' ';
-  position: absolute;
-  top: 0;
-  left: 0;
-  z-index: 2;
-  width: 299px;
-  height: 299px;
-  background-image: url('noise2.svg');
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  opacity: 10%;
-  border-radius: 41% 63% 52% 50% / 55% 50% 49% 47%;
-} */
+@keyframes rot {
+  0% {transform: rotate(0deg);}
+  50% {transform: rotate(180deg);}
+  100% {transform: rotate(360deg);}
+}
+@-webkit-keyframes rot- {
+  0% {transform: rotate(0deg);}
+  50% {transform: rotate(-180deg);}
+  100% {transform: rotate(-360deg);}
+}
+@keyframes rot- {
+  0% {transform: rotate(0deg);}
+  50% {transform: rotate(-180deg);}
+  100% {transform: rotate(-360deg);}
+}
