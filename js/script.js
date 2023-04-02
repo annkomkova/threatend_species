@@ -13,7 +13,7 @@ function processData(allText) {
   let allTextLines = allText.split(/\r\n|\n/);
   let main = $(".main");
 
-  for (let i = 0; i < 45; i++) {
+  for (let i = 1; i < 45; i++) {
       let data = allTextLines[i].split(',');
       let t = Math.round(data[7] / 3 - 10);
       let name = data[0];
