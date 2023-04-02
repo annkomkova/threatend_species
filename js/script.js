@@ -1,7 +1,7 @@
 $(document).ready(function() {
   $.ajax({
     type: "GET",
-    url: "https://raw.githubusercontent.com/annkomkova/threatend_species/main/data/data.csv",
+    url: "https://raw.githubusercontent.com/annkomkova/threatend_species/main/data/data_header.csv",
     dataType: "text",
     success: function(data) {
       processData(data);
@@ -13,9 +13,9 @@ function processData(allText) {
   let allTextLines = allText.split(/\r\n|\n/);
   let main = $(".main");
 
-  for (let i = 1; i < 45; i++) {
+  for (let i = 1; i < 46; i++) {
       let data = allTextLines[i].split(',');
-      let t = Math.round(data[7] / 3 - 10);
+      let t = Math.round(data[7] / 3 - 20);
       let name = data[0];
 
       let ma = ' <div class="ma" style="width:'+data[1]/2+'px;height:'+data[1]/2+'px";></div> ';

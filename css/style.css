@@ -8,10 +8,36 @@
   --white: rgba(255, 255, 255, 0.2);
 }
 body {
-  width: 98vw;
+  width: 100vw;
   margin: 0 auto;
   background: #1a1a1a;
   font-family: 'Lato', sans-serif;
+  color: white;
+}
+.header {
+  width: 100vw;
+  display: flex;
+  justify-content: space-around;
+  margin: 1.5vw;
+}
+.info {
+  width: 40vw;
+}
+.legend {
+  background-image: url('../img/legend.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 50vw;
+  height: 32.05vw;
+}
+h1 {
+  font-weight: 900;
+  font-size: 48px;
+  margin-bottom: 5vw;
+}
+p {
+  font-size: 24px;
+  margin-top: 2vw;
 }
 .main {
   width: 100%;
@@ -249,7 +275,7 @@ body {
   background-size: cover;
   margin: 10px 0;
 }
-@-webkit-keyframes rot {
+/* @-webkit-keyframes rot {
   0% {transform: rotate(0deg);}
   50% {transform: rotate(180deg);}
   100% {transform: rotate(360deg);}
@@ -268,17 +294,8 @@ body {
   0% {transform: rotate(0deg);}
   50% {transform: rotate(-180deg);}
   100% {transform: rotate(-360deg);}
-}
+} */
 @media all and (min-width: 320px) and (max-width: 719px) {
-  .main {
-    grid-template-columns: repeat(2, 1fr);
-  }
-  .card {
-    width: 49vw;
-    height: 49vw;
-  }
-}
-@media all and (min-width: 720px) and (max-width: 1439px) {
   .main {
     grid-template-columns: repeat(3, 1fr);
   }
@@ -287,16 +304,16 @@ body {
     height: 32.5vw;
   }
 }
-@media all and (min-width: 1440px) and (max-width: 1919px) {
+@media all and (min-width: 720px) and (max-width: 1439px) {
   .main {
     grid-template-columns: repeat(4, 1fr);
   }
   .card {
-    width: 24.2vw;
-    height: 24.2vw;
+    width: 24.5vw;
+    height: 24.5vw;
   }
 }
-@media all and (min-width: 1679px) and (max-width: 1919px) {
+@media all and (min-width: 1440px) and (max-width: 1919px) {
   .main {
     grid-template-columns: repeat(5, 1fr);
   }
@@ -305,7 +322,8 @@ body {
     height: 19.2vw;
   }
 }
-@media all and (min-width: 1920px) {
+
+/* @media all and (min-width: 1920px) {
   .main {
     grid-template-columns: repeat(6, 1fr);
   }
@@ -313,4 +331,4 @@ body {
     width: 15.8vw;
     height: 15.8vw;
   }
-}
+} */
